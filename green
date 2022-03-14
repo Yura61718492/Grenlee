@@ -1,0 +1,3 @@
+git fetch --tags
+git checkout -b release-3.29.2-02 origin/release-3.29.2-02 --
+./mvnw clean install
